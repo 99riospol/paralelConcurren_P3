@@ -1,1 +1,0 @@
-# paralelConcurren_P3
